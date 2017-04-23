@@ -296,6 +296,86 @@ header .intro-text {
     line-height: 24px;
     margin: 15px 0 30px;
 }
+
+/* events section */
+#div-events {
+    padding: 0 0 60px 0;
+}
+#div-events .section-title {
+    background: #444 url(../img/networking.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#div-events .section-title h2 {
+    color: #fff;
+}
+
+#div-events img {
+    width: 300px;
+    box-shadow: 15px 0 #a7c44c;
+}
+
+/* TALENTOS section */
+#div-talentos {
+    padding: 0 0 60px 0;
+}
+#div-talentos .section-title {
+    background: #444 url(../img/business.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#div-talentos .section-title h2 {
+    color: #fff;
+}
+
+#div-talentos img {
+    width: 300px;
+    box-shadow: 15px 0 #a7c44c;
+}
+
+
+
+/* DEPOIMENTOS section */
+#div-depoimentos {
+   padding: 0 0 60px 0;
+}
+
+#div-depoimentos .section-title {
+    background: #444 url(../img/depoimento.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#div-depoimentos .section-title h2 {
+    color: #fff;
+}
+
+#div-depoimentos img {
+    width: 300px;
+    box-shadow: 15px 0 #a7c44c;
+}
+
+
+/* clube section */
+#div-clube {
+   padding: 0 0 60px 0;
+}
+
+#div-clube .section-title {
+    background: #444 url(../img/together.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+#div-clube .section-title h2 {
+    color: #fff;
+}
+
+#div-clube img {
+    width: 300px;
+    box-shadow: 15px 0 #a7c44c;
+}
+
+
+
 /* Menu Section */
 #restaurant-menu {
     padding: 0 0 60px 0;
